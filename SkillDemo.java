@@ -1,5 +1,5 @@
 public class SkillDemo {
     public int doubler(int num) {
-        return num * 3;
+        return num * 2;
     }
 }
